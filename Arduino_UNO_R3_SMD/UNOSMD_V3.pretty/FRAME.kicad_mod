@@ -1,0 +1,66 @@
+(footprint "FRAME"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "e76f487d-8b6e-437c-9055-4a9cd7122657")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7c7f6ec5-1f3e-475d-9750-5b985e386b57")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09597123-a68e-43e6-bf9b-7eda14301be3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3972e03a-8820-4596-90f8-e23ac507d909")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "Reference Designs ARE PROVIDED \"AS IS\" AND \"WITH ALL FAULTS. Arduino SA DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,\nREGARDING PRODUCTS, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A \nPARTICULAR PURPOSE \nArduino SA may make changes to specifications and product descriptions at any time, without notice. The Customer must not\nrely on the absence or characteristics of any features or instructions marked \"reserved\" or \"undefined.\" Arduino SA reserves\nthese for future definition and shall have no responsibility whatsoever for conflicts or incompatibilities arising from future changes to them.\nThe product information on the Web Site or Materials is subject to change without notice. Do not finalize a design with this info\n\nARDUINO and other Arduino brands and logos and Trademarks of Arduino SA. All Arduino SA Trademarks cannot be used without owner's formal permission\n\nThis file is licensed under : CC-SA-BY-NC"
+		(at 0 17.78 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2c4926f1-29c6-4f99-b0a6-f2ebb205b23c")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)
